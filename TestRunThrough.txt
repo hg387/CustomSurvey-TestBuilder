@@ -1,0 +1,236 @@
+"C:\Program Files\Java\jdk-11.0.4\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\lib\idea_rt.jar=55318:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\hg387\IdeaProjects\HW\out\production\HW;C:\Users\hg387\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\hg387\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar com.gupta.main.java.Main
+	Menu1
+1) Survey
+2) Test
+Please enter your choice:
+2
+	Menu2
+1) Create a new Test
+2) Display a Test
+3) Load a Test
+4) Save a Test
+5) Quit
+
+Please enter your choice
+1
+test 1 is added
+Please enter number of questions:
+6
+Please select Questions from these following types:
+1) Add a new T/F question
+2) Add a new multiple-choice question
+3) Add a new short answer question
+4) Add a new essay question
+5) Add a new emoji question
+6) Add a new matching question
+
+Question #1
+1
+Enter the prompt for your True/False question:
+A meter is slighly longer than a yard?
+
+Enter the correct Answer
+true
+Question #2
+Why Drexel is good?
+
+Not an Integer, Please enter a positive Integer:
+2
+Enter the prompt for your MCQ question:
+Why Drexel is good?
+
+Enter the number of choices for your multiple-choice question
+3
+Please enter choice number 1:
+Priceless Co-Ops
+Please enter choice number 2:
+Good Faculty ratio
+Please enter choice number 3:
+Dual degree programs
+Enter the number of correct Answer/s
+1
+Please enter correct choice number 1:
+Priceless Co-Ops
+Question #3
+3
+Enter the prompt for your short question:
+What is your favorite movie ?
+
+Question #4
+Write some comments about Donald Trump ?
+
+Not an Integer, Please enter a positive Integer:
+4
+Enter the prompt for your essay question:
+Write some comments about Donald Trump ?
+
+Question #5
+5
+Enter the prompt for your emoji question:
+How does Star Wars make you feel ?
+
+
+Keep in mind: answer choices are Smiles, Frowns, Angry, Surprised, Sad
+Enter the number of correct Answer/s
+1
+Please enter correct choice number 1:
+Smiles
+Question #6
+6
+Enter the prompt for your Matching question, using this format columnA : columnB
+Match the countries with their capitals
+
+Enter the number of rows for your matching question, using this format columnA : columnB
+3
+
+Please enter choice number 1:
+France : Wellington
+
+Please enter choice number 2:
+Italy : Paris
+
+Please enter choice number 3:
+New Zealand : Rome
+Please enter the correct choice for New Zealand
+Wellington
+Please enter the correct choice for Italy
+Rome
+Please enter the correct choice for France
+Paris
+	Menu2
+1) Create a new Test
+2) Display a Test
+3) Load a Test
+4) Save a Test
+5) Quit
+
+Please enter your choice
+4
+test 1 saved
+	Menu2
+1) Create a new Test
+2) Display a Test
+3) Load a Test
+4) Save a Test
+5) Quit
+
+Please enter your choice
+2
+	test 1 Begin 
+
+Q1) A meter is slighly longer than a yard? 
+1) true
+2) false
+
+The correct answer/s for question 1 :
+true
+
+Q2) Why Drexel is good? 
+1) Priceless Co-Ops
+2) Good Faculty ratio
+3) Dual degree programs
+
+The correct answer/s for question 2 :
+Priceless Co-Ops
+
+Q3) What is your favorite movie ? 
+
+Q4) Write some comments about Donald Trump ? 
+
+Q5) How does Star Wars make you feel ? 
+1) Smiles
+2) Frowns
+3) Angry
+4) Surprised
+5) Sad
+
+The correct answer/s for question 5 :
+Smiles
+
+Q6) Match the countries with their capitals 
+New Zealand	:	Rome
+Italy	:	Paris
+France	:	Wellington
+
+The correct answer/s for question 6 :
+New Zealand : Wellington
+Italy : Rome
+France : Paris
+
+
+	test 1 End 
+	Menu2
+1) Create a new Test
+2) Display a Test
+3) Load a Test
+4) Save a Test
+5) Quit
+
+Please enter your choice
+3
+Please select a file to load:
+1) survey 1
+2) test 1
+
+test 1
+test 1 loaded
+	Menu2
+1) Create a new Test
+2) Display a Test
+3) Load a Test
+4) Save a Test
+5) Quit
+
+Please enter your choice
+2
+	test 1 Begin 
+
+Q1) A meter is slighly longer than a yard? 
+1) true
+2) false
+
+The correct answer/s for question 1 :
+true
+
+Q2) Why Drexel is good? 
+1) Priceless Co-Ops
+2) Good Faculty ratio
+3) Dual degree programs
+
+The correct answer/s for question 2 :
+Priceless Co-Ops
+
+Q3) What is your favorite movie ? 
+
+Q4) Write some comments about Donald Trump ? 
+
+Q5) How does Star Wars make you feel ? 
+1) Smiles
+2) Frowns
+3) Angry
+4) Surprised
+5) Sad
+
+The correct answer/s for question 5 :
+Smiles
+
+Q6) Match the countries with their capitals 
+New Zealand	:	Rome
+Italy	:	Paris
+France	:	Wellington
+
+The correct answer/s for question 6 :
+New Zealand : Wellington
+Italy : Rome
+France : Paris
+
+
+	test 1 End 
+	Menu2
+1) Create a new Test
+2) Display a Test
+3) Load a Test
+4) Save a Test
+5) Quit
+
+Please enter your choice
